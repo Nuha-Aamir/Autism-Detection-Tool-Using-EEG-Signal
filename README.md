@@ -1,12 +1,15 @@
-This is my Final Year Project (FYP) — an AI-based system designed to assist in the early detection of Autism Spectrum Disorder (ASD) using Electroencephalogram (EEG) signals.
+🎓 Final Year Project Repository
+Project Title: Early Detection of Autism Using EEG Techniques
+Project Code: FYP/004-FL-21
 
-🔍 Key Features:
-Preprocessing and analysis of raw EEG data
-Feature extraction using signal processing techniques
-Machine learning models for classification
-Visualization of EEG patterns related to ASD indicators
+This repository contains all the materials related to our final year project, which focuses on the early detection of Autism Spectrum Disorder (ASD) using EEG-based Machine Learning techniques. The goal is to build an accurate, non-invasive system that helps in the early diagnosis of ASD in children.
 
-🎯 Goal:
-To support early diagnosis of Autism through non-invasive, brain-signal-based analysis — providing a step forward in healthcare and AI integration
-
-⚠️ Note: This project is in progress — updates and improvements will be pushed regularly.
+📂 Included Documents:
+📄 Project Proposal
+📊 Project Poster
+🎥 5-Minute Video Explanation
+📽️ Final Project Presentation
+📘 Complete FYP Report
+💻 Source Code
+📁 Dataset
+✅ Supervisor Verification Form
