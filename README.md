@@ -16,7 +16,7 @@ This repository contains all the materials related to our final year project, wh
 
 📚 Research Paper
 
-🔗 Published Review Paper – Read the paper here (replace # with actual link)
+🔗 Published Review Paper – Read the paper here (https://vfast.org/journals/index.php/VTCS/article/view/2095)
 
 💻 Source Code
 
