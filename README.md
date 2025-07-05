@@ -1,6 +1,6 @@
 🎓 Final Year Project Repository
 Project Title: Early Detection of Autism Using EEG Techniques
-Project Code: FYP/004-FL-21
+Project Code: FYP-004/FL21
 
 This repository contains all the materials related to our final year project, which focuses on the early detection of Autism Spectrum Disorder (ASD) using EEG-based Machine Learning techniques. The goal is to build an accurate, non-invasive system that helps in the early diagnosis of ASD in children.
 
